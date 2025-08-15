@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "accountId": 1,
+    "userId": 1,
+    "amount": -45.32,
+    "description": "Grocery Store Purchase",
+    "category": "groceries",
+    "type": "expense",
+    "date": "2024-08-14T16:45:00Z",
+    "merchant": "FreshMart Groceries",
+    "isRecurring": false,
+    "tags": [
+      "food",
+      "essential"
+    ]
+  },
+  {
+    "id": 2,
+    "accountId": 1,
+    "userId": 1,
+    "amount": -1200,
+    "description": "Monthly Rent Payment",
+    "category": "housing",
+    "type": "expense",
+    "date": "2024-08-01T09:00:00Z",
+    "merchant": "Sunset Apartments",
+    "isRecurring": true,
+    "tags": [
+      "housing",
+      "monthly"
+    ]
+  },
+  {
+    "id": 3,
+    "accountId": 1,
+    "userId": 1,
+    "amount": 3500,
+    "description": "Salary Deposit",
+    "category": "income",
+    "type": "income",
+    "date": "2024-08-01T08:00:00Z",
+    "merchant": "Tech Solutions Inc",
+    "isRecurring": true,
+    "tags": [
+      "salary",
+      "income"
+    ]
+  },
+  {
+    "id": 4,
+    "accountId": 2,
+    "userId": 1,
+    "amount": 500,
+    "description": "Monthly Savings Transfer",
+    "category": "transfer",
+    "type": "transfer",
+    "date": "2024-08-01T09:30:00Z",
+    "merchant": "Internal Transfer",
+    "isRecurring": true,
+    "tags": [
+      "savings",
+      "transfer"
+    ]
+  },
+  {
+    "id": 5,
+    "accountId": 1,
+    "userId": 1,
+    "amount": -85.5,
+    "description": "Electric Bill",
+    "category": "utilities",
+    "type": "expense",
+    "date": "2024-08-05T14:20:00Z",
+    "merchant": "PowerCorp Electric",
+    "isRecurring": true,
+    "tags": [
+      "utilities",
+      "bills"
+    ]
+  },
+  {
+    "id": 6,
+    "accountId": 1,
+    "amount": -45.99,
+    "description": "Coffee Shop Visit",
+    "category": "entertainment",
+    "merchant": "Local Coffee House",
+    "tags": [
+      "coffee",
+      "social"
+    ],
+    "isRecurring": false,
+    "userId": 1,
+    "type": "expense",
+    "date": "2025-08-15T11:35:40.552Z"
+  }
+]

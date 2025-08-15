@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "name": "Primary Checking",
+    "type": "checking",
+    "balance": 2804.76,
+    "currency": "USD",
+    "bankName": "First National Bank",
+    "accountNumber": "****1234",
+    "isActive": true,
+    "createdAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "name": "Savings Account",
+    "type": "savings",
+    "balance": 15420.3,
+    "currency": "USD",
+    "bankName": "First National Bank",
+    "accountNumber": "****5678",
+    "isActive": true,
+    "createdAt": "2024-01-15T10:05:00Z"
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "name": "Business Checking",
+    "type": "checking",
+    "balance": 8932.45,
+    "currency": "USD",
+    "bankName": "Business Bank Corp",
+    "accountNumber": "****9876",
+    "isActive": true,
+    "createdAt": "2024-02-01T14:30:00Z"
+  }
+]

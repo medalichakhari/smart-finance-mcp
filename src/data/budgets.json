@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "name": "Monthly Budget",
+    "totalBudget": 3000.0,
+    "period": "monthly",
+    "startDate": "2024-08-01T00:00:00Z",
+    "endDate": "2024-08-31T23:59:59Z",
+    "categories": {
+      "housing": { "budgeted": 1200.0, "spent": 1200.0 },
+      "groceries": { "budgeted": 400.0, "spent": 245.32 },
+      "utilities": { "budgeted": 150.0, "spent": 85.5 },
+      "transportation": { "budgeted": 200.0, "spent": 0.0 },
+      "entertainment": { "budgeted": 300.0, "spent": 0.0 },
+      "healthcare": { "budgeted": 200.0, "spent": 0.0 },
+      "miscellaneous": { "budgeted": 550.0, "spent": 0.0 }
+    },
+    "isActive": true,
+    "createdAt": "2024-07-25T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "name": "Business Expenses",
+    "totalBudget": 5000.0,
+    "period": "monthly",
+    "startDate": "2024-08-01T00:00:00Z",
+    "endDate": "2024-08-31T23:59:59Z",
+    "categories": {
+      "office-supplies": { "budgeted": 500.0, "spent": 0.0 },
+      "marketing": { "budgeted": 1000.0, "spent": 0.0 },
+      "software": { "budgeted": 800.0, "spent": 0.0 },
+      "travel": { "budgeted": 1200.0, "spent": 0.0 },
+      "equipment": { "budgeted": 1500.0, "spent": 0.0 }
+    },
+    "isActive": true,
+    "createdAt": "2024-07-28T14:00:00Z"
+  }
+]
